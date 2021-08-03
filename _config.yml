@@ -4,7 +4,7 @@ title: "OptiTramp"
 description: "Bienvenidos, les voy a llevar en mis aventuras y exploraciones. Viaje, cultura, estilo de vida. Comer, Rezar, Amar!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /blog_OptiTramp
+baseurl: https://antoine4790.github.io
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -19,7 +19,7 @@ authors:
     display_name: OptiTramp
     avatar: 'assets/images/avatar.png'
     email: 41antoine@gmail.com
-    web: https://antoine4790.github.io/Website_github_cv
+    web: https://antoine4790.github.io/blog_Optitramp
     twitter: https://twitter.com/TrampOpti
     description: "Traveler, Explorer, Cyclist"
 
