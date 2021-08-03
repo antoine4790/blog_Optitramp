@@ -18,5 +18,3 @@ permalink: "/2019/10/13/la-ou-tout-tu-commences/"
 <p><!-- wp:paragraph --></p>
 <p>Depuis plus d'un mois et demi au Brésil sans véritable but, j'entends parler de cette ferme qui propose des volontariats de permaculture, par une amie brésilienne. Ni une ni deux, J'y fonce et découvre la vie brésilienne à la campagne et sa tranquillité , reprends goût à la cuisine, à la nourriture un peu plus saine qui est celle que l'on fait soi-même avec amour, très important. Pendant le mois où je reste dans cette ferme, je me mets à lire un <a rel="noreferrer noopener" aria-label="livre (abre en una nueva pestaña)" href="https://www.deuxsingesenhiver.com/" target="_blank">livre</a> , deux singes en hiver, qui parle du tour du monde de deux voyageurs français à vélo qui racontent leurs histoires. Je suis séduit par les histoires toutes plus drôles les unes que les autres, qu'ils racontent et l'idee s'ancre peu à peu dans mon esprit...</p>
 <p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p><!-- /wp:paragraph --></p>

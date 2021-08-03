@@ -4,7 +4,7 @@ title: "OptiTramp"
 description: "Bienvenidos, les voy a llevar en mis aventuras y exploraciones. Viaje, cultura, estilo de vida. Comer, Rezar, Amar!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: https://antoine4790.github.io
+baseurl: '/blog_Optitramp'
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -59,10 +59,10 @@ adsense-data-ad-client: "ca-pub-3412143450191416"
 adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")
-lazyimages: "enabled"
+lazyimages: "disabled"
 
 # Post Author Box ("enabled" or "disabled")
-authorbox: "enabled"
+authorbox: "disabled"
 
 # Sass
 sass:

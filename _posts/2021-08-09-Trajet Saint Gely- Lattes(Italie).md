@@ -4,7 +4,7 @@ title: Nouveau Départ vers l'Italie
 date: 2019-08-09 20:08:08.000000000 +02:00
 type: post
 categories: [Travel]
-tags: [France]
+tags: [Francia]
 author: OptiTramp
 permalink: "/2021/08/09/saint-gely-lattes-italie/"
 ---
